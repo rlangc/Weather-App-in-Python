@@ -1,1 +1,3 @@
-# Weather-App-in-Python
+# Weather App in Python
+
+Example coming soon, stay tuned!
