@@ -4,11 +4,11 @@ The Weather App is a command-line Python application that retrieves real-time we
 
 <h2>Key Features</h2>
 
-- Real-Time Weather Data: Fetches current weather details such as temperature, humidity, wind speed, and a brief description of the weather conditions
-- API Integration: Utilizes the OpenWeatherMap API to obtain up-to-date weather information
-- User-Friendly Interface: Offers a simple CLI where users can input a city name to retrieve weather information
-- Error Handling: Incorporates robust error checking to handle scenarios such as invalid city names, network errors, or issues with the API key
-- Modular Code Structure: The code is organized into functions for fetching and displaying weather data, which makes it easy to maintain and extend.
+- <b>Real-Time Weather Data:</b> Fetches current weather details such as temperature, humidity, wind speed, and a brief description of the weather conditions
+- <b>API Integration:</b> Utilizes the OpenWeatherMap API to obtain up-to-date weather information
+- <b>User-Friendly Interface:</b> Offers a simple CLI where users can input a city name to retrieve weather information
+- <b>Error Handling:</b> Incorporates robust error checking to handle scenarios such as invalid city names, network errors, or issues with the API key
+- <b>Modular Code Structure:</b> The code is organized into functions for fetching and displaying weather data, which makes it easy to maintain and extend
 
 <h2>Technologies Used</h2>
 
