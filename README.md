@@ -4,36 +4,35 @@ The Weather App is a command-line Python application that retrieves real-time we
 
 <h2>Key Features</h2>
 
+<h4>Real-Time Weather Data:</h4>
 
-    Real-Time Weather Data:
-    Fetches current weather details such as temperature, humidity, wind speed, and a brief description of the weather conditions.
+- Fetches current weather details such as temperature, humidity, wind speed, and a brief description of the weather conditions.
 
-    API Integration:
-    Utilizes the OpenWeatherMap API to obtain up-to-date weather information.
+<h4>API Integration:</h4>
 
-    User-Friendly Interface:
-    Offers a simple CLI where users can input a city name to retrieve weather information.
+- Utilizes the OpenWeatherMap API to obtain up-to-date weather information.
 
-    Error Handling:
-    Incorporates robust error checking to handle scenarios such as invalid city names, network errors, or issues with the API key.
+<h4>User-Friendly Interface:</h4>
 
-    Modular Code Structure:
-    The code is organized into functions for fetching and displaying weather data, which makes it easy to maintain and extend.
+- Offers a simple CLI where users can input a city name to retrieve weather information.
+
+<h4>Error Handling:</h4>
+
+- Incorporates robust error checking to handle scenarios such as invalid city names, network errors, or issues with the API key.
+
+<h4>Modular Code Structure:</h4>
+
+- The code is organized into functions for fetching and displaying weather data, which makes it easy to maintain and extend.
 
 <h2>Technologies Used</h2>
 
-
-    Python:
-    Core language used to build the application.
-
-    Requests Library:
-    Facilitates HTTP requests to communicate with the OpenWeatherMap API.
-
-    JSON:
-    Parses the API response to extract and display weather details.
-
-    APIs:
-    Integration with the OpenWeatherMap API for real-time data.
+- Python
+- Requests Library:
+    - Facilitates HTTP requests to communicate with the OpenWeatherMap API.
+- JSON:
+    - Parses the API response to extract and display weather details.
+- APIs:
+    - Integration with the OpenWeatherMap API for real-time data.
 
 <h2>How to Use the Weather App</h2>
 
